@@ -1,0 +1,4 @@
+Install Spyder 
+import the data set into code which has already been uploaded in repository as "football.cv"
+run the code by running every line in a manner so that the model is trained 
+give the input for prediction and output is displayed along with plots.
